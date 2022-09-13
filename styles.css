@@ -1,11 +1,15 @@
 body{
     background-image: url('https://thumbs.dreamstime.com/b/wafer-seamless-pattern-background-ice-cream-cone-surface-vector-88054186.jpg');
 }
-
 section{
 
 }
+img{
+    float: right;
+    width: 250px;
+    margin: 10px;
+}
 
 footer{
-    align-self: center;
+    text-align: center;
 }
