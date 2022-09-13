@@ -34,3 +34,6 @@ h1{
     margin: 20px;
     align-self: center;
 }
+.bg-dark {
+    background-color: rgba(163, 81, 22, 0.397) !important;
+}
