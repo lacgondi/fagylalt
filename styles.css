@@ -1,5 +1,6 @@
 body{
     background-image: url('https://thumbs.dreamstime.com/b/wafer-seamless-pattern-background-ice-cream-cone-surface-vector-88054186.jpg');
+    max-width: 1023px;
 }
 section{
     margin-top: 75px;
@@ -19,4 +20,5 @@ footer{
 
 main{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
 }
